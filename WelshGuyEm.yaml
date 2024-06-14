@@ -30,7 +30,7 @@ Pokemon Emerald:
   level_up_moves: start_with_four_moves
   move_match_type_bias: 43
   move_normal_type_bias: 49
-  tm_compatibility: vanilla
+  tm_compatibility: 100
   hm_compatibility: 100
   tm_moves: 'false'
   reusable_tms: 'false'
